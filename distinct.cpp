@@ -14,6 +14,8 @@ int solution(vector<int> &A) {
   return s.size();
 }
 
+int main() { return 0; }
+
 /**
  * Submission link:
  * https://app.codility.com/demo/results/training4PKQ26-ANC/

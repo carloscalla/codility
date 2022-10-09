@@ -22,6 +22,8 @@ int solution(vector<int> &A) {
   return max({a, b, c, d});
 }
 
+int main() { return 0; }
+
 /**
  * Submission link:
  * https://app.codility.com/demo/results/trainingBSS652-STP/

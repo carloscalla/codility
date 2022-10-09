@@ -36,6 +36,8 @@ int solution(vector<int> &A) {
   return 0;
 }
 
+int main() { return 0; }
+
 /**
  * Submission link:
  * https://app.codility.com/demo/results/trainingZT57X8-2ET/

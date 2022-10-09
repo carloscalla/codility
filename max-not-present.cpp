@@ -43,6 +43,8 @@ int solution(vector<int> &A, vector<int> &B) {
   return sol + 1;
 }
 
+int main() { return 0; }
+
 /**
  * Submission link:
  * https://app.codility.com/demo/results/trainingB7V9GY-GXP/
